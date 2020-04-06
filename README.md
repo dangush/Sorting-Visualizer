@@ -1,3 +1,5 @@
+Sorting-Visualizer by Daniel Gushchyan
+
 This project creates a visual representation of various sorting algorithms. It is my first attempt at web apps / first time using JS.
 
 This project follow's Clement Mihailescu's tutorial.
