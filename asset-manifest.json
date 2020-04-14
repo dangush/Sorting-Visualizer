@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sorting-Visualizer/tree/gh-pages/static/css/main.b906e4bc.chunk.css",
+    "main.js": "/Sorting-Visualizer/tree/gh-pages/static/js/main.0232df06.chunk.js",
+    "main.js.map": "/Sorting-Visualizer/tree/gh-pages/static/js/main.0232df06.chunk.js.map",
+    "runtime-main.js": "/Sorting-Visualizer/tree/gh-pages/static/js/runtime-main.cdc4ec3d.js",
+    "runtime-main.js.map": "/Sorting-Visualizer/tree/gh-pages/static/js/runtime-main.cdc4ec3d.js.map",
+    "static/js/2.c9edae09.chunk.js": "/Sorting-Visualizer/tree/gh-pages/static/js/2.c9edae09.chunk.js",
+    "static/js/2.c9edae09.chunk.js.map": "/Sorting-Visualizer/tree/gh-pages/static/js/2.c9edae09.chunk.js.map",
+    "index.html": "/Sorting-Visualizer/tree/gh-pages/index.html",
+    "precache-manifest.8bc0cd0d9138956c9907e84596540384.js": "/Sorting-Visualizer/tree/gh-pages/precache-manifest.8bc0cd0d9138956c9907e84596540384.js",
+    "service-worker.js": "/Sorting-Visualizer/tree/gh-pages/service-worker.js",
+    "static/css/main.b906e4bc.chunk.css.map": "/Sorting-Visualizer/tree/gh-pages/static/css/main.b906e4bc.chunk.css.map",
+    "static/js/2.c9edae09.chunk.js.LICENSE.txt": "/Sorting-Visualizer/tree/gh-pages/static/js/2.c9edae09.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Sorting-Visualizer/tree/gh-pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdc4ec3d.js",
+    "static/js/2.c9edae09.chunk.js",
+    "static/css/main.b906e4bc.chunk.css",
+    "static/js/main.0232df06.chunk.js"
+  ]
+}
