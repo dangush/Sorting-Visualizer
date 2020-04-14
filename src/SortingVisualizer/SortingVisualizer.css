@@ -1,9 +1,37 @@
+html {
+  min-height: 100%; /* make sure it is at least as tall as the viewport */
+  position: relative;
+}
+body {
+  background-color: rgba(255, 244, 228, 100%);
+  height: 100%; /* force the BODY element to match the height of the HTML element */
+}
+
 .array-container {
+  position: absolute;
+  bottom: 115px;
+  width: 100%;
+}
+
+.button {
+  position: relative;
+  height: 50px;
+  width: 200px;
+  margin: 10px;
+  top: 16%;
+}
+
+.button-container {
+  background-color: burlywood;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
 }
 
 .array-bar {
   width: 2px;
-  background-color: pink;
+  background-color: rgba(6, 174, 213, 100%);
   display: inline-block;
   margin: 0 1px;
 }
