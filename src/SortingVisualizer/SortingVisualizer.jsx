@@ -36,7 +36,7 @@ class SortingVisualizer extends React.Component {
             Generate New Array
           </button>
           <button className="button" onClick={this.resetArray}>
-            Bubble Sort
+            TEST Sort
           </button>
           <button className="button" onClick={this.resetArray}>
             Merge Sort
