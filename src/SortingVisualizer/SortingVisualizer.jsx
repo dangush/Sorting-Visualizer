@@ -25,15 +25,12 @@ class SortingVisualizer extends React.Component {
     for (let i = 0; i < changes.length; i++) {
       setTimeout(() => {
         let barOneStyle = bars[changes[i][0]].style;
-        console.log("This is " + barOneStyle.height);
         let barTwoStyle = bars[changes[i][1]].style;
-        console.log("The second is " + barTwoStyle.height);
         let temp;
 
         barOneStyle.backgroundColor = "red";
         barTwoStyle.backgroundColor = "green";
         temp = barOneStyle.height;
-        console.log("got here");
         barOneStyle.height = barTwoStyle.height;
         barTwoStyle.height = temp;
 
